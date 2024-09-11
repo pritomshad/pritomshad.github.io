@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416.62 130.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #262262;
+        font-size: 101.97px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: CascadiaCode-Regular, 'Cascadia Code';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        fill: #1c75bc;
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(58.02 43.14)"><tspan x="0" y="0">OHARRAMUN NESSA</tspan><tspan x="0" y="43.2">ATERNITY HOSPITAL</tspan></text>
+      <text class="cls-1" transform="translate(0 86.34)"><tspan x="0" y="0">M</tspan></text>
+    </g>
+  </g>
+</svg>
