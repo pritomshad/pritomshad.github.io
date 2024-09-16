@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[495],{2495:(e,s,n)=>{n.r(s),n.d(s,{default:()=>r});var a=n(5043),o=n(579);const i=(0,a.lazy)((()=>Promise.resolve().then(n.bind(n,1766)))),r=()=>(0,o.jsxs)(i,{children:[(0,o.jsx)("h1",{children:"Thanks for you Donation."}),(0,o.jsx)("p",{children:"To confirm donation please revisit the website's Donators page after some time."})]})}}]);
+//# sourceMappingURL=495.94927ad5.chunk.js.map
